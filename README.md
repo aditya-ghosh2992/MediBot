@@ -29,10 +29,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 - Required Python packages (you can install them using pip):
     - pandas
     - numpy
-    - mathplotlib
-    - chainlit
-    - sentence-transformers
-    - faiss
+    - matplotlib
 
 ## Installation
 
@@ -40,7 +37,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
     ```bash
     git clone https://github.com/aditya-ghosh2992/MediBot-.git
-    cd MediBot-
+    cd MediBot
     ```
 
 2. Create a Python virtual environment (optional but recommended):
